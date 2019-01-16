@@ -1,3 +1,3 @@
-# [module.party](http://module.party)
+# [module party](https://ungoldman.github.io/module.party)
 
 > "Install We Trust"
